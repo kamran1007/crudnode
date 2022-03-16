@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6230b00ba1d8a69115bfb60e"
+  },
+  "name": "kamran quamar 3",
+  "email": "quamar123@gmail.commmm",
+  "gender": "male",
+  "status": "acti",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6231ff18ca88e8cc1fe3ae47"
+  },
+  "name": "kamran quamar",
+  "email": "quamar123@gmail.com",
+  "gender": "male",
+  "status": "acti",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6232191726eb344716e470c4"
+  },
+  "name": "kamran ",
+  "email": "saqlain@gmail.com",
+  "gender": "Male",
+  "status": "Active",
+  "__v": 0
+}]
